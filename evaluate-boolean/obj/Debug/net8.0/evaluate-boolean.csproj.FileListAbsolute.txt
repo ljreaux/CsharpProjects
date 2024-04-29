@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/bin/Debug/net8.0/evaluate-boolean
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/bin/Debug/net8.0/evaluate-boolean.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/bin/Debug/net8.0/evaluate-boolean.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/bin/Debug/net8.0/evaluate-boolean.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/bin/Debug/net8.0/evaluate-boolean.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/refint/evaluate-boolean.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/evaluate-boolean.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/evaluate-boolean/obj/Debug/net8.0/ref/evaluate-boolean.dll
