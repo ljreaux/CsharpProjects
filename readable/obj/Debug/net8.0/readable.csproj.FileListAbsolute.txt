@@ -1,0 +1,14 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/bin/Debug/net8.0/readable
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/bin/Debug/net8.0/readable.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/bin/Debug/net8.0/readable.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/bin/Debug/net8.0/readable.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/bin/Debug/net8.0/readable.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/refint/readable.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/readable.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/readable/obj/Debug/net8.0/ref/readable.dll

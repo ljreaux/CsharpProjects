@@ -1,0 +1,14 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/bin/Debug/net8.0/arrays
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/bin/Debug/net8.0/arrays.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/bin/Debug/net8.0/arrays.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/bin/Debug/net8.0/arrays.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/bin/Debug/net8.0/arrays.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/refint/arrays.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/arrays.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrays/obj/Debug/net8.0/ref/arrays.dll
