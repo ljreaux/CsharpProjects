@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/bin/Debug/net8.0/switch
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/bin/Debug/net8.0/switch.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/bin/Debug/net8.0/switch.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/bin/Debug/net8.0/switch.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/bin/Debug/net8.0/switch.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/refint/switch.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/switch.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/switch/obj/Debug/net8.0/ref/switch.dll
