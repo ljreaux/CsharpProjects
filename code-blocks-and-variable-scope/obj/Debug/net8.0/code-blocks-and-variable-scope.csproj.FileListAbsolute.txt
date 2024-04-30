@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/bin/Debug/net8.0/code-blocks-and-variable-scope.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/refint/code-blocks-and-variable-scope.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/code-blocks-and-variable-scope.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/code-blocks-and-variable-scope/obj/Debug/net8.0/ref/code-blocks-and-variable-scope.dll
