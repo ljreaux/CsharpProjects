@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/bin/Debug/net8.0/castingAndConversion
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/bin/Debug/net8.0/castingAndConversion.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/bin/Debug/net8.0/castingAndConversion.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/bin/Debug/net8.0/castingAndConversion.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/bin/Debug/net8.0/castingAndConversion.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/refint/castingAndConversion.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/castingAndConversion.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/castingAndConversion/obj/Debug/net8.0/ref/castingAndConversion.dll
