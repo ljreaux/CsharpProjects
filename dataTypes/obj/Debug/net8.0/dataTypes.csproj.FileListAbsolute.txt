@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/bin/Debug/net8.0/dataTypes
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/bin/Debug/net8.0/dataTypes.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/bin/Debug/net8.0/dataTypes.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/bin/Debug/net8.0/dataTypes.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/bin/Debug/net8.0/dataTypes.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/refint/dataTypes.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/dataTypes.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/dataTypes/obj/Debug/net8.0/ref/dataTypes.dll
