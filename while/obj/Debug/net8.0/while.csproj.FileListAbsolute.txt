@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/bin/Debug/net8.0/while
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/bin/Debug/net8.0/while.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/bin/Debug/net8.0/while.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/bin/Debug/net8.0/while.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/bin/Debug/net8.0/while.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/refint/while.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/while.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/while/obj/Debug/net8.0/ref/while.dll
