@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/bin/Debug/net8.0/arrayHelpers
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/bin/Debug/net8.0/arrayHelpers.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/bin/Debug/net8.0/arrayHelpers.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/bin/Debug/net8.0/arrayHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/bin/Debug/net8.0/arrayHelpers.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/refint/arrayHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/arrayHelpers.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/arrayHelpers/obj/Debug/net8.0/ref/arrayHelpers.dll

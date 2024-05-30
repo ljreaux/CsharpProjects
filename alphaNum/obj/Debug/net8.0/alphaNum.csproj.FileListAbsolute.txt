@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/bin/Debug/net8.0/alphaNum
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/bin/Debug/net8.0/alphaNum.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/bin/Debug/net8.0/alphaNum.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/bin/Debug/net8.0/alphaNum.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/bin/Debug/net8.0/alphaNum.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/refint/alphaNum.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/alphaNum.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/alphaNum/obj/Debug/net8.0/ref/alphaNum.dll

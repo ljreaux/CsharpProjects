@@ -1,0 +1,15 @@
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/bin/Debug/net8.0/stringHelpers
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/bin/Debug/net8.0/stringHelpers.deps.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/bin/Debug/net8.0/stringHelpers.runtimeconfig.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/bin/Debug/net8.0/stringHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/bin/Debug/net8.0/stringHelpers.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.AssemblyInfoInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.AssemblyInfo.cs
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.csproj.CoreCompileInputs.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.sourcelink.json
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/refint/stringHelpers.dll
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.pdb
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/stringHelpers.genruntimeconfig.cache
+/Users/larryreaux/Developer/C# Learning/CsharpProjects/stringHelpers/obj/Debug/net8.0/ref/stringHelpers.dll
