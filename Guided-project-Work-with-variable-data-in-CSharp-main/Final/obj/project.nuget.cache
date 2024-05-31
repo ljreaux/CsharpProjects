@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ZkSa4/Sz5t337A4ZjWhSvk/YIdG3ZQ6r5Es+aC9zCwRiHzeTRCHn0g+maJGEB6magWyc6nKV+7ICtLcMd3KUQ==",
+  "success": true,
+  "projectFilePath": "/Users/larryreaux/Developer/C# Learning/CsharpProjects/Guided-project-Work-with-variable-data-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/larryreaux/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/larryreaux/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/larryreaux/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

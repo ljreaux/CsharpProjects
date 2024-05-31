@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2LsCG97h8MdCOoiAqbqW6Dtu8Q99D2zXnfSLpjO7LP0ff9f53/RmwhIIwWl3YpTYIsj5u665kxIKsvh9DLrXFg==",
+  "success": true,
+  "projectFilePath": "/Users/larryreaux/Developer/C# Learning/CsharpProjects/Challenge-Project-variable-data-in-CSharp-main/Final/Final.csproj",
+  "expectedPackageFiles": [
+    "/Users/larryreaux/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/larryreaux/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
+    "/Users/larryreaux/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
